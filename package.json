@@ -1,0 +1,12 @@
+{
+  "name": "learn-css0to1",
+  "version": "1.0.0",
+  "author": "dcb9 <bob@phpor.me>",
+  "private": true,
+  "scripts": {
+    "start": "yarn lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
